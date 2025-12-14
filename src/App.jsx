@@ -286,21 +286,21 @@ export default function ITServicesApp() {
                 <Mail className="w-6 h-6 text-blue-400 mt-1" />
                 <div>
                   <h4 className="text-white font-semibold mb-1">Email</h4>
-                  <p className="text-gray-400">contact@techsolutions.com</p>
+                  <p className="text-gray-400">nikeshbarodiya@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <Phone className="w-6 h-6 text-blue-400 mt-1" />
                 <div>
                   <h4 className="text-white font-semibold mb-1">Phone</h4>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+91 7041801692</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
                 <MapPin className="w-6 h-6 text-blue-400 mt-1" />
                 <div>
                   <h4 className="text-white font-semibold mb-1">Location</h4>
-                  <p className="text-gray-400">123 Tech Street, Digital City</p>
+                  <p className="text-gray-400">Ahmedabad</p>
                 </div>
               </div>
             </div>
@@ -335,7 +335,7 @@ export default function ITServicesApp() {
       {/* Footer */}
       <footer className="bg-slate-900 border-t border-blue-500/20 py-8 px-4">
         <div className="max-w-7xl mx-auto text-center">
-          <p className="text-gray-400">© 2024 TechSolutions. All rights reserved.</p>
+          <p className="text-gray-400">© 2025-26 TechSolutions. All rights reserved.</p>
         </div>
       </footer>
     </div>
